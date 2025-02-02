@@ -16,7 +16,7 @@ body{
 
 }
 .card{
-    background: salmon;
+    background: linear-gradient(to right, #D38312, #A83279);;
     width: 300px;
     height: 400px;
     border-radius: 10px;
